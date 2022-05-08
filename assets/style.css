@@ -223,6 +223,7 @@ header nav ul li a {
 .contact {
     text-align: center;
     background: #024e76;
+    overflow: auto;
 }
 
 .contact h2 {
@@ -266,6 +267,7 @@ footer {
     background: #fce138;
     width: 100%;
     padding: 40px 35px;
+    overflow: auto;
 }
 
 footer h2 {
